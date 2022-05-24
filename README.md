@@ -42,6 +42,6 @@ Want to discuss about GSoC / Rocket.Chat / Open-source / Blockchain / Crypto? Le
 | **Medium** | [mustafahasankhan](https://mustafahasankhan.medium.com/) |
 | **Website** | [mustafahasankhan.com](https://mustafahasankhan.com) |
 | **Email** | <a href="mailto:mustafahasankhan@protonmail.com">mustafahasankhan@protonmail.com</a> |
-| **Rocket.Chat** | [rohan.lekhwani](https://open.rocket.chat/direct/mustafa.hasan.khan) |
+| **Rocket.Chat** | [mustafa.hasan.khan](https://open.rocket.chat/direct/mustafa.hasan.khan) |
        
 </div>
