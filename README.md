@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://summerofcode.withgoogle.com/programs/2022/projects/tN7gvf0E"><img src="[https://i.imgur.com/pgkUceb.png](https://assets-global.website-files.com/611a19ba853b746b32f6b402/62444b257d9d86ad941fba00_image%20(10).png)" width="650" alt="google-summer-of-code-2022"></a>
+    <a href="https://summerofcode.withgoogle.com/programs/2022/projects/tN7gvf0E"><img src="https://i.imgur.com/pgkUceb.png](https://assets-global.website-files.com/611a19ba853b746b32f6b402/62444b257d9d86ad941fba00_image%20(10).png" width="650" alt="google-summer-of-code-2022"></a>
     <br>
     <b> 
         <p>
