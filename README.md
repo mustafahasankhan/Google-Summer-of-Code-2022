@@ -38,7 +38,7 @@ Want to discuss about GSoC / Rocket.Chat / Open-source / Blockchain / Crypto? Le
 | **Project** | [ClickUp App for Rocket.Chat](https://summerofcode.withgoogle.com/programs/2022/projects/tN7gvf0E) |
 | **GitHub** | [@mustafahasankhan](https://github.com/mustafahasankhan) |
 | **LinkedIn** | [mustafahasankhan](https://www.linkedin.com/in/mustafahasankhan) |
-| **Twitter** | [mustafahasankhan](https://www.twitter.com/rohanlekhwani) |
+| **Twitter** | [mustafahasankhan](https://www.twitter.com/mustafahkhan) |
 | **Medium** | [mustafahasankhan](https://mustafahasankhan.medium.com/) |
 | **Website** | [mustafahasankhan.com](https://mustafahasankhan.com) |
 | **Email** | <a href="mailto:mustafahasankhan@protonmail.com">mustafahasankhan@protonmail.com</a> |
