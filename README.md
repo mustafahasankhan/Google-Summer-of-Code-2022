@@ -43,6 +43,23 @@ The following are the deliverables of this project:
 ## 📺 Demo
 - recording now
 
+## 🎓 Mentors
+
+A big big thank you to my mentors for their guidance before and throughout GSoC. 🙏 
+I learned beyond GSoC from them and am forever grateful to be mentored by them.
+
+**“One of the greatest values of mentors is the ability to see ahead what others cannot see and to help them navigate a course to their destination.”** *— John C. Maxwell*
+
+*At the end of my GSoC journey, I 100% agree with the above quote.* 
+
+- **Douglas Gubert** [Github](https://github.com/d-gubert) [LinkedIn](https://www.linkedin.com/in/douglas-gubert-66798127)
+- **Allan Rebeiro** - [GitHub](https://github.com/AllanPazRibeiro). [LinkedIn](https://www.linkedin.com/in/allan-ribeiro-2977998b)
+
+
+## 🔗 Links
+    
+- Read my journey to GSoC on my blog [here](https://mustafahasankhan.com/blog/gsoc-2022).
+
 ## ❤️ Support
 Learned something new today? Reciprocate the love. ⭐ this repo for good. (Do good and good will come to you)
     
