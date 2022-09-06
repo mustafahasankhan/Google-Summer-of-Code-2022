@@ -41,7 +41,60 @@ The following are the deliverables of this project:
 **All of the above deliverables were completed within the GSoC period. Yay! 🎉**
 
 ## 📺 Demo
-- recording now
+- Importing workspaces from ClickUp:
+
+https://user-images.githubusercontent.com/65130881/188577159-6e870764-abb0-48cb-91e5-71834dde1f58.mp4
+
+
+- Managing workspaces, spaces, folders, lists and tasks:
+
+https://user-images.githubusercontent.com/65130881/188577494-030f42e9-ef9d-4297-a33b-2d014a777bfb.mp4
+
+
+- Task management:
+
+https://user-images.githubusercontent.com/65130881/188577922-3642b389-1a8d-43bb-a869-6b5fb19a9102.mp4
+
+
+- Task subscription and notifications:
+
+https://user-images.githubusercontent.com/65130881/188579386-91fd0041-bc88-4262-9d8f-3e5e7fa5325a.mp4
+
+
+- Creating task with assignees and optionally creating a room for them on Rocket.Chat:
+
+https://user-images.githubusercontent.com/65130881/188579102-34749565-5b20-4bc7-8441-2a5eb7d73dcf.mp4
+
+## 🚀 Contributions
+
+### PRs
+
+<div align="center">
+
+| PR Link   | Description  | Status | 
+| :-----------: | :------------------------------------:| :------:|
+| [PR #3](https://github.com/RocketChat/Apps.ClickUp/pull/3) | App initialization. <br><br> <div align="left"> Highlights include:<ul><li>Initialized the RC app.</li><li>Implemented OAuth login flow.</li><div> | <img src="https://i.imgur.com/tskv8MM.png" width=50 height=40> |
+| [PR #4](https://github.com/RocketChat/Apps.ClickUp/pull/4) | Added slash command for authentication. | <img src="https://i.imgur.com/tskv8MM.png" width=50 height=40> |
+| [PR #5](https://github.com/RocketChat/Apps.ClickUp/pull/5) | Setup Modals. | <img src="https://i.imgur.com/tskv8MM.png" width=50 height=40> |
+| [PR #6](https://github.com/RocketChat/Apps.ClickUp/pull/6) | Implemented create task feature. | <img src="https://i.imgur.com/tskv8MM.png" width=50 height=40> |
+| [PR #7](https://github.com/RocketChat/Apps.ClickUp/pull/7) | Implemented Get, Update & Delete tasks feature. | <img src="https://i.imgur.com/tskv8MM.png" width=50 height=40>
+| [PR #8](https://github.com/RocketChat/Apps.ClickUp/pull/8) | Added Room assignee feature. | <img src="https://i.imgur.com/tskv8MM.png" width=50 height=40> |
+| [PR #10](https://github.com/RocketChat/Apps.ClickUp/pull/10) | Implemented Subscriptions and Progressive Workflow. | <img src="https://i.imgur.com/tskv8MM.png" width=50 height=40> |
+| [PR #11](https://github.com/RocketChat/Apps.ClickUp/pull/11) | Refactored code and finalized app. | <img src="https://i.imgur.com/tskv8MM.png" width=50 height=40> |
+</div>
+
+## 😎 Blog
+    
+I have not writen blogs regarding each stage of GSoC, but you'll find these two interesting and insightful.
+    
+<div align="center">
+    
+| **GSoC Phase** | Blog |
+|:--------------------|:-------------------|
+| Selection | [Journey to Google Summer of Code 2022](https://mustafahasankhan.com/blog/gsoc-2022) |
+| GSoC Period | [What all I did in Google Summer of Code 2022](https://mustafahasankhan.com/blog/work-at-gsoc-2022) |
+    
+</div>
 
 ## 🎓 Mentors
 
@@ -52,13 +105,15 @@ I learned beyond GSoC from them and am forever grateful to be mentored by them.
 
 *At the end of my GSoC journey, I 100% agree with the above quote.* 
 
-- **Douglas Gubert** [Github](https://github.com/d-gubert) [LinkedIn](https://www.linkedin.com/in/douglas-gubert-66798127)
-- **Allan Rebeiro** - [GitHub](https://github.com/AllanPazRibeiro). [LinkedIn](https://www.linkedin.com/in/allan-ribeiro-2977998b)
+- **Douglas Gubert** - [Github](https://github.com/d-gubert) [LinkedIn](https://www.linkedin.com/in/douglas-gubert-66798127)
+- **Allan Rebeiro** - [GitHub](https://github.com/AllanPazRibeiro) [LinkedIn](https://www.linkedin.com/in/allan-ribeiro-2977998b)
 
 
 ## 🔗 Links
     
-- Read my journey to GSoC on my blog [here](https://mustafahasankhan.com/blog/gsoc-2022).
+- Check the app on Rocket.Chat marketplace [here](#).
+- Check my presentation on Rocket.Chat demo day [here](#).
+
 
 ## ❤️ Support
 Learned something new today? Reciprocate the love. ⭐ this repo for good. (Do good and good will come to you)
