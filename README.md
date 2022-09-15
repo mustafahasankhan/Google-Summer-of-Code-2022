@@ -85,7 +85,7 @@ https://user-images.githubusercontent.com/65130881/188579102-34749565-5b20-4bc7-
 
 ## 😎 Blog
     
-I have not writen blogs regarding each stage of GSoC, but you'll find these two interesting and insightful.
+I have not written blogs regarding each stage of GSoC, but you'll find these two interesting and insightful.
     
 <div align="center">
     
@@ -133,5 +133,6 @@ Want to discuss about GSoC / Rocket.Chat / Open-source / Blockchain / Crypto? Le
 | **Website** | [mustafahasankhan.com](https://mustafahasankhan.com) |
 | **Email** | <a href="mailto:mustafahasankhan@protonmail.com">mustafahasankhan@protonmail.com</a> |
 | **Rocket.Chat** | [mustafa.hasan.khan](https://open.rocket.chat/direct/mustafa.hasan.khan) |
-       
+| **Hit Counter** | <a href="https://hits.sh/github.com/mustafahasankhan/Google-Summer-of-Code-2022/"><img alt="Hits" src="https://hits.sh/github.com/mustafahasankhan/Google-Summer-of-Code-2022.svg?style=for-the-badge&label=views"/></a> |
 </div>
+
